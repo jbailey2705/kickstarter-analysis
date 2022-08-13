@@ -1,7 +1,7 @@
 # Kickstarter Campaign Analysis
 ## Performing analytics to uncover data trends on Kickstarter. 
 ### Purpose of the data analysis is to show and visualize data for both Theater and Play Outcomes.
-## No challanges encountered, results we're straight forward for the Outcomes by Launch Date. Possible some challanges with Outcomes based on Goals, just ensuring the right calculations are used to find the percentages on the Goals provided. 	
+### No challanges encountered, results we're straight forward for the Outcomes by Launch Date. Possible some challanges with Outcomes based on Goals, just ensuring the right calculations are used to find the percentages on the Goals provided. 	
 ### Analysis on Outcomes based Yearly totals for Theater launch dates
 * Successful - 839 Total records
 * Failed - 493 Total Records 
@@ -11,7 +11,7 @@
 * Percetage of Failed
 * Percetage of Canceled
 ## Data results can be viewed on the excel sheet provided & 2 charts pics for each of the 2 Outcomes.
-- Couple of conclusions on the Theater Outcomes by Launch Date
+- Conclusions on the Theater Outcomes by Launch Date
 1. Successful Theater launches have been trending down month over month from May - Sept., with a slight tik up from Sept. - Oct. and then back down from Oct. - Dec. 
 2. Although Successful records are trending down for Theater outcomes, still ahead of what has failed, and canceled is pretty flat.
 - Conclusion on Outcomes based on Goals
